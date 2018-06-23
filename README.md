@@ -15,3 +15,9 @@ python app.py
 ## implementation
 
 This project is implemented using Flask, and is a REST API.
+
+```
+import random
+
+print(random.randrange(1, 10)
+```
